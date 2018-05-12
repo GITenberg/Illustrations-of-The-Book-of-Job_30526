@@ -1,0 +1,28 @@
+_repo: Illustrations-of-The-Book-of-Job_30526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: http://en.wikipedia.org/wiki/William_Blake
+description: ''
+gutenberg_issued: '2009-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Job -- Illustrations'
+- !lcc 'NC'
+title: Illustrations of The Book of Job
+url: http://www.gutenberg.org/ebooks/30526
